@@ -22,16 +22,15 @@
       <br><br>
       <img src="https://img.shields.io/badge/Node.Js-7FC728?style=for-the-badge&logo=node.js&logoColor=ffffff">
       <br><br>
-      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-      <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-      <br><br>
-      <br><br>
+  
   </p>
   
   <li> 🎓 Studying:</li>
   <br/>
   <p align="left">
       <img src="https://img.shields.io/badge/Angula-RED?style=for-the-badge&logo=angula&logoColor=white">
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+      <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   </p>
   
   <li>:toolbox: Tools:</li>
