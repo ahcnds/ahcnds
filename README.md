@@ -28,7 +28,7 @@
   <li> 🎓 Studying:</li>
   <br/>
   <p align="left">
-      <img src="https://img.shields.io/badge/Angula-RED?style=for-the-badge&logo=angula&logoColor=white">
+      <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
       <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
       <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   </p>
